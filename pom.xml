@@ -15,7 +15,7 @@
 	<name>SpringBoot-SpringMVC-FormDataBinding</name>
 	<description>Spring mvc application showing how to bind form data</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
